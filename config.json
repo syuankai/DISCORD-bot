@@ -1,0 +1,9 @@
+{
+  "port": 3000,
+  "tunnelMode": false,
+  "apiKey": "your_secret_api_key_here",
+  "applicationId": "your_discord_application_id_here",
+  "botToken": "your_discord_bot_token_here",
+  "defaultChannelId": "your_discord_channel_id_here",
+  "enforceGuildId": ""
+  
